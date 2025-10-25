@@ -29,9 +29,9 @@ cd BankApp
 3. Run on an emulator or physical device
 
 ## Tech stack:
-Langunages: Java
-Gradle: Dependency Management
-Android SDK/Android Studio
+1. Langunages: Java
+2. Gradle: Dependency Management
+3. Android SDK/Android Studio
 
 ## Demo Link:
 https://www.linkedin.com/posts/srihitha-guntuboina_task2-thesparksfoundation-grip-activity-6812330443304693760-4CPr?utm_source=share&utm_medium=member_desktop&rcm=ACoAADPnLLwBN5vgE8V6XcxhTfZaBVAbD9npw-Q
