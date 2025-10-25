@@ -18,10 +18,24 @@ BankApp is a self-contained banking application written in Java. The project use
 3. Android Studio and SDK configured
 
 **Clone the Repo:**
-'''bash
-  git clone https://github.com/gsrihitha/BankApp.git  
-  cd BankApp  
-'''
+```bash
+git clone https://github.com/gsrihitha/BankApp.git  
+cd BankApp  
+```
+
+**Running the app:**
+1. Open the project in Android Studio
+2. Sync Gradle
+3. Run on an emulator or physical device
+
+## Tech stack:**
+Langunages: Java
+Gradle: Dependency Management
+Android SDK/Android Studio
+
+## Demo Link:
+https://www.linkedin.com/posts/srihitha-guntuboina_task2-thesparksfoundation-grip-activity-6812330443304693760-4CPr?utm_source=share&utm_medium=member_desktop&rcm=ACoAADPnLLwBN5vgE8V6XcxhTfZaBVAbD9npw-Q
+
 
 
 
