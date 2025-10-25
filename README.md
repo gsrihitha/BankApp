@@ -28,7 +28,7 @@ cd BankApp
 2. Sync Gradle
 3. Run on an emulator or physical device
 
-## Tech stack:**
+## Tech stack:
 Langunages: Java
 Gradle: Dependency Management
 Android SDK/Android Studio
